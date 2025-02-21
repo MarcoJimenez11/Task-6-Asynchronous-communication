@@ -1,0 +1,17 @@
+{
+  "name": "task-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.6",
+    "@tailwindcss/vite": "^4.0.8",
+    "flowbite": "^3.1.2",
+    "tailwindcss": "^4.0.8"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
